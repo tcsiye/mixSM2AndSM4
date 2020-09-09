@@ -1,0 +1,17 @@
+{
+  "name": "cryptsm2-sm4",
+  "version": "1.0.0",
+  "description": "crypt sm2、sm4 and sm2 mix sm4 content  (gm)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "sm2、sm4、mix"
+  ],
+  "author": "zhanghanchun",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
