@@ -1,13 +1,13 @@
 {
-  "name": "cryptsm2-sm4",
+  "name": "cryption-tools",
   "version": "1.0.0",
-  "description": "crypt sm2、sm4 and sm2 mix sm4 content  (gm)",
+  "description": "The tool is SM2、SM4 and their mingle encrypt and decrypt",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [
-    "sm2、sm4、mix"
+    "sm2; sm4; encrypt, decrypt"
   ],
   "author": "zhanghanchun",
   "license": "ISC",
